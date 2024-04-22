@@ -1,4 +1,6 @@
 package com.github.jntlvr;
 
-public class TipoEndereco {
+public enum TipoEndereco {
+    RESIDENCIAL,
+    COMERCIAL
 }

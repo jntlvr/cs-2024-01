@@ -1,4 +1,12 @@
 package com.github.jntlvr;
 
-public class TipoLogradouro {
+public enum TipoLogradouro {
+    ALAMEDA,
+    AVENIDA,
+    MARGINAL,
+    RUA,
+    RODOVIA,
+    VIA,
+    VIELA,
+    TRAVESSA
 }
