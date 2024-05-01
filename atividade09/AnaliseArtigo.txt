@@ -3,7 +3,12 @@ Atividade sobre Qualidade do Código
 1.6 [DevQA: Como medir qualidade de código?](https://kamillaqueiroz.medium.com/devqa-como-medir-qualidade-de-código-6149fada1e)
 
 
-O texto fala sobre a importância da qualidade do código-fonte no desenvolvimento de software e como as métricas podem ajudar a garantir a atingir essa qualidade. Ele ressalta a necessidade de evitar problemas como duplicidade de código, complexidade ciclomática elevada e falta dos testes de unidade. A qualidade do código é crucial e depende dos desenvolvedores que o constroem, o que pode levar a erros mesmo com o uso de conceitos e métodos da engenharia de software. Análises estáticas, como a Análise Estática de Código (AEC), são importantes para identificar e corrigir esses erros. Métricas como o Número de Linhas de Código (LOC) e a Complexidade Ciclomática (CC) são utilizadas para medir aspectos do código e identificar possíveis problemas. A verificação estática ajuda a identificar erros no código e ferramentas como o SonarQube e Code Sheriff auxiliam na análise e melhoria da qualidade do código.
+O texto fala sobre a importância da qualidade do código-fonte no desenvolvimento de software e como as métricas podem ajudar a garantir a atingir essa qualidade. 
+Ele ressalta a necessidade de evitar problemas como duplicidade de código, complexidade ciclomática elevada e falta dos testes de unidade. 
+A qualidade do código é crucial e depende dos desenvolvedores que o constroem, o que pode levar a erros mesmo com o uso de conceitos e métodos da engenharia de software. 
+Análises estáticas, como a Análise Estática de Código (AEC), são importantes para identificar e corrigir esses erros. 
+Métricas como o Número de Linhas de Código (LOC) e a Complexidade Ciclomática (CC) são utilizadas para medir aspectos do código e identificar possíveis problemas. 
+A verificação estática ajuda a identificar erros no código e ferramentas como o SonarQube e Code Sheriff auxiliam na análise e melhoria da qualidade do código.
 
 A Code Sheriff, iniciativa brasileira de análise de código, é uma novidade para mim.
 O detalhamento sobre métricas específicas, como Complexidade Ciclomática (CC) e Falta de coesão em métodos (LCOM), também não conhecia.
